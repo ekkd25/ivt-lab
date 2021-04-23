@@ -130,7 +130,7 @@ public class GT4500 implements SpaceShip {
       
       break;
     }
-  firingSucces= true;
+  firingSuccess= true;
     return firingSuccess;
   }
 
